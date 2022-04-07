@@ -2,8 +2,8 @@
 <hr><img align="right" width="150" src="https://c.tenor.com/GFyZcrPO7B0AAAAM/monkey.gif"/>
 <div style="display: inline_block"><br>
 👨‍💻 - Desenvolvedor Front-end Jr. <br>
-🎓 - Estudante de Análise e Desenvolvimento de Sistemas no IFPE <br>
-📹 - As vezes tento virar criador de conteúdo <br>
+🎓 - Estudante de Sistemas para Internet na Universidade Católica de Pernambuco <br>
+📹 - Aprendendo React.js e React Native <br>
 </div>
 
 <div style="display: inline_block"><br>
