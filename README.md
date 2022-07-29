@@ -1,9 +1,9 @@
 ### Opa, eu sou o Athos!
 <hr><img align="right" width="150" src="https://c.tenor.com/GFyZcrPO7B0AAAAM/monkey.gif"/>
 <div style="display: inline_block"><br>
-👨‍💻 - Desenvolvedor Mobile Jr.. <br>
-🎓 - Estudante de Sistemas para Internet na Universidade Católica de Pernambuco <br>
-📹 - React e React Native <br>
+👨‍💻 - Desenvolvedor Mobile Jr. <br>
+🎓 - Estudante de Sistemas para Internet na Universidade Católica de Pernambuco (UNICAP). <br>
+📹 - React e React Native. <br>
 </div>
 
 <div style="display: inline_block"><br>
